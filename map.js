@@ -5329,7 +5329,7 @@ var locations = [
 
 function initMap() {
     var map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 6,
+        zoom: 8,
         center: {lat: 54.62566, lng: -5.889}
     });
 // Add some markers to the map.
